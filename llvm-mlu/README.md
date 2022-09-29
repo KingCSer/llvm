@@ -3,7 +3,7 @@
 2. python3 ../buildbot/compile.py
 
 
-### Build example Command
+### Build example Command //from kang
 This project is based on llvm-13 for supporting cambricon mlu
 
 - source env-cnrt.sh

@@ -1,4 +1,4 @@
-### Build LLVM Command
+### Build LLVM Command//from kang
 1. python3 ../buildbot/configure.py -t Debug --bang
 2. python3 ../buildbot/compile.py
 
